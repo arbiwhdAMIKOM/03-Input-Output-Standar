@@ -5,8 +5,9 @@
 using namespace std;
 int main()
 {
+    cout << "Hitung sisi miring" << endl; // Soal Satu
+
     double a, b, c;
-    cout << "Hitung sisi miring" << endl;
     cout << setw(8) << " /|" << endl;
     cout << setw(8) << " / |" << endl;
     cout << "a" << setw(9) << "/  | c" << endl;

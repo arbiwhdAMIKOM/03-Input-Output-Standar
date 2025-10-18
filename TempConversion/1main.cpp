@@ -8,7 +8,7 @@ int main()
 {
 	double celsius, reamur, fahrenheit;
 	
-	cout << "Konversi Suhu" << endl;
+	cout << "Konversi Suhu" << endl; // Soal Dua
 	cout << "===========================" << endl;
 	cout << "Input celcius      " << char(248) << "C\b\b\b\b\b\b";
 	cin >> celsius;
